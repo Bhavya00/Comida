@@ -13,7 +13,9 @@
                 keep mentioning the fonts used ( you can use any of your choice )
 ======================================================*/
 
-html,
+html{
+  scroll-behavior: smooth;
+}
 body {
   height: 100%;
 }
@@ -417,10 +419,12 @@ body {
 -------------------------------- */
 .welcome{
   text-align: center;
-  color: #3498db;
+  color: #361109;
+  text-shadow: #6b3428;
   font-weight: bold;
-  text-decoration: underline;
-  padding-bottom: 10px;
+  font-family: "Satisfy";
+  padding-bottom: 20px;
+  font-size: 40px;
 }
 
 .devour{
