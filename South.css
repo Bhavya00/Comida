@@ -47,7 +47,8 @@ h1{
 
 .title {
   color:#e61c8b;
-} text-decoration: underline;
+text-decoration: underline;
+}
 
 .button {
   border: none;
