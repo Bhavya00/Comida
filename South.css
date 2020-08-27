@@ -3,6 +3,7 @@ html {
 }
 body{
 background-image: linear-gradient(#847ade,#8dcdf2);
+background-size: cover;
 }
 
 *, *:before, *:after {
