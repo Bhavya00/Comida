@@ -7,11 +7,12 @@ body{
     margin: 0 auto;
     padding: 0;
     height: 100vh;
+    
 }
 #particles-js
 {
     
-    background: #312a31;
+    background: #0e0d0e;
     position: absolute;
     width: 100%;
     height: 100%;
@@ -22,14 +23,13 @@ h1 {
      left: 40%;
     font-weight: bold;
     color: white;
-    padding-top: 20px;
+    padding-top: 35px;
     font-family:  'Satisfy', cursive;
-    
-   
-
 }
+
+
 .cards {
-    padding-top: 130px;
+    padding-top: 150px;
 }
 
 .single_box{
@@ -109,17 +109,14 @@ h1 {
 
 
 #box .box_single:nth-child(1) .content_box{
-    background: linear-gradient(0deg, #c21833,transparent);
+    background: linear-gradient(0deg, #33ff58,transparent);
 }
 
 #box .box_single:nth-child(2) .content_box{
-    background: linear-gradient(0deg, #3352FF,transparent);
+    background: linear-gradient(0deg,  #33ff58,transparent);
 }
 
 #box .box_single:nth-child(3) .content_box{
     background: linear-gradient(0deg, #33ff58,transparent)
 }
 
-#box .box_single:nth-child(4) .content_box{
-    background: linear-gradient(0deg, #fff933,transparent)
-}
