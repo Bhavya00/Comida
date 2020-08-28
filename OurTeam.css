@@ -19,15 +19,17 @@ body{
 }
 h1 {
     position: absolute;
-    left: 40%;
-    font-size: 50px;
+     left: 40%;
     font-weight: bold;
     color: white;
-    text-decoration: underline;
+    padding-top: 20px;
+    font-family:  'Satisfy', cursive;
+    
+   
 
 }
 .cards {
-    padding-top: 90px;
+    padding-top: 130px;
 }
 
 .single_box{
