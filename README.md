@@ -14,6 +14,8 @@ So all you have to do is just click below on the given link and explore various 
 * You can contact us through the form given in the website in case of any queries and reach out to us via various social links given .
 * If you want your food to reach millions just write to us and follow the norms stated.
 
+**We aim to provide everyone the essence of the Indian food so that everyone can relate themselves with our herbs and spices , their fragrance and the delicious taste of food that will enrich their taste buds and fill their mouth with water whenever they think of India and its amazing food.**
+
 <img src="https://images.unsplash.com/photo-1496412705862-e0088f16f791?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80">
 
 ### *Good Food...Good Mood...*
