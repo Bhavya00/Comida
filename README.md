@@ -4,7 +4,8 @@ India is a land of various diversities and rich culture that has become its iden
 Food and popular meals made with exotic Indian spices tell us about its history and traditions of several different cultures existing in different parts of our country.
 
 ## * Good Food...Good Mood...
-(https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
+[](https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
+
 ##About Us
 *Comida* is a website that defines the ethical beauty of Indian flavours so that everyone can enjoy  Indian food with relish.
 Our Website basically acts like a guide in the tour of famous dishes of different parts of India.
